@@ -1,0 +1,47 @@
+body{
+    padding:20px;
+    margin: 33px;
+    margin-bottom:5px;
+   
+   
+ }
+
+ fieldset{
+    border:solid 2px #d170cc;
+    border-radius:10px;
+    box-shadow: #dab2d1;
+    padding:20px;
+    width: 400px;
+   
+
+ }
+ legend{
+    font:bold 16pt Times New Roman ;
+    color:#1f0518;
+ }
+ 
+ input[type="submit"]{
+    border-radius: 5px;
+    background-color:#30a3b3;
+    color:#FFFFFF;
+    width:100px;
+    height: 30px;
+    cursor:pointer;
+ }
+ .label{
+    margin-bottom:4px;
+    font:10pt arial;
+    color:#070505;
+ }
+ .champ{
+    margin-bottom:20px;
+ }
+ #erreur{
+    font:10pt arial;
+    color:#DD0000;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:10px;
+ }
+ 
+ 
